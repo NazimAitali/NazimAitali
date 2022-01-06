@@ -18,6 +18,8 @@
 
 </p>
 <br />
+<br />
+
 
 <h3>Languages and Tools:</h3>
 <br />
@@ -42,7 +44,8 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
+ <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=NazimAitali&show_icons=true&locale=en&layout=compact" alt="nadfri" />
+ </p>
 <h3>Activity:</h3>
 
 <br />
@@ -51,6 +54,3 @@
 [![](https://activity-graph.herokuapp.com/graph?username=NazimAitali&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
-<br />
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NazimAitali&show_icons=true&locale=en&layout=compact" alt="nadfri" />
- </p>
